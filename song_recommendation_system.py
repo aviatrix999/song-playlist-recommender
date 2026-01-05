@@ -1,7 +1,7 @@
 import numpy as np
 
 # Artists
-artists = ["Atif Aslam", "Sunidhi Chauhan", "Sabrina Carpenter"
+artists = ["Atif Aslam", "Sunidhi Chauhan", "Sabrina Carpenter"]
 
 # Song database
 song_database = {
